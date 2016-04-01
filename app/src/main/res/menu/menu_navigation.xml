@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/actionHistory"
+        android:title="@string/tab_item_soup"
+        android:orderInCategory="0"
+        android:icon="@mipmap/ic_message_reply_text"
+
+         />
+    <item
+        android:id="@+id/actionIdea"
+        android:title="@string/tab_item_salad"
+        android:orderInCategory="1"
+        android:icon="@mipmap/ic_message_reply_text"
+
+        />
+
+    <item
+        android:id="@+id/actionToDo"
+        android:title="@string/tab_item_casserole"
+        android:orderInCategory="1"
+        android:icon="@mipmap/ic_message_reply_text"
+
+        />
+    <item
+        android:id="@+id/actionBirthday"
+        android:title="@string/tab_item_garnish"
+        android:orderInCategory="1"
+        android:icon="@mipmap/ic_message_reply_text"
+
+        />
+
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Coocking Up</string>
+    <string name="search_title">Search</string>
+    <string name="text_open">Open</string>
+    <string name="text_close">Close</string>
+    <string name="text_test">test</string>
+
+    <string name="tab_item_soup">Soups</string>
+    <string name="tab_item_salad">Salads</string>
+    <string name="tab_item_casserole">Casserole</string>
+    <string name="tab_item_garnish">Garnishes</string>
+
+</resources>
